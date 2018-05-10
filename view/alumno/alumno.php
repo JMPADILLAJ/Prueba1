@@ -1,4 +1,4 @@
-<h1>Alumnos</h1>
+<h1>José Padilla</h1>
 
 <div>
     <a href="?c=Alumno&a=Crud">Nuevo alumno</a>
